@@ -32,3 +32,8 @@ nav ul li a{
 #logo h1{
     letter-spacing: 0.15em;
 }
+
+section{
+    text-align: center;
+    letter-spacing: 0.15em;
+}
